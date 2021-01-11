@@ -8,6 +8,9 @@ Step 1: Run test.m and fill in all the information on the righthand side and cli
  
 Figure 1
 
+Try this markdown:
+
+![alt text](Fig1.png)
 
 
 
