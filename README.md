@@ -34,6 +34,5 @@ Click the popup menu and select the figure you want to plot. If the data you sel
 We could also look at the raw data by select traces+DIC image （Fig. 6）. The red colored traces are the ones presenting events. Since the traces are quite small, you could plot the ones interesting to you separately by click “select button”. You could click the specific spots that you are interested. It will automatically select the spots that are close to the clicked locations and also have shown events and automatically plot the events of those spots in a separate window. If none of the spots close to the click location has shown events, it will return the traces of the closest one.  
 
 
- 
-Fig.6
+![alt text](Fig6.png) 
 
